@@ -1,0 +1,7 @@
+First checkout master then
+git fetch origin or upstrem       # to update
+git merge origin/master or upstrem/master #to merge
+
+then on the working branch we need to merge the our local master updated changes
+git checkout working-branch-name
+git merge master
