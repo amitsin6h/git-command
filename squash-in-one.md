@@ -1,4 +1,4 @@
-#Squash all commit in one
+Squash all commit in one
 
 Let say if we have 3 commit made and we and to squash it one then.
 
